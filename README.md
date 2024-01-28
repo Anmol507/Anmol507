@@ -24,7 +24,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 <br>
-<!--<a href="">My Portfolio</a>!>
+<!--<a href="">My Portfolio</a> -->
 </div>
 
 ---
