@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Lifelong Learner<br>👯 I’m looking to collaborate on DS Models<br>🌱 I’m currently learning Data Science<br>💬 Exploring the world of Tech<br>
+🔭 Lifelong Learner<br>👯 I’m looking to collaborate on DS Models<br>🌱 Interested in Data Science and Web Development<br>💬 Exploring the world of Tech<br>
 
 
 ## 🌐 Socials:
